@@ -1,6 +1,3 @@
-# Face-Recognition-Attendance-System-with-Liveness-Detection-and-Nearest-Neighbors-Search
----
-
 # Face Recognition Attendance System with Liveness Detection and Nearest Neighbors Search
 
 This repository contains the code for a robust face recognition attendance system, developed as part of the Applied Machine Learning (COS30082) project at Swinburne University of Technology. The system includes an optimized feature for faster recognition through a nearest neighbors search in the database.
@@ -68,4 +65,3 @@ This system innovatively integrates nearest neighbors search for rapid database 
 
 - [Minivision AI](https://github.com/minivision-ai/Silent-Face-Anti-Spoofing) for providing the MiniFASNetV2 model.
 
----
