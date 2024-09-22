@@ -22,7 +22,7 @@ The system was trained and evaluated using a provided face recognition dataset b
 - **Nearest Neighbors Search:** The system accelerates face recognition by using a nearest neighbors search on the face embeddings, ensuring quick and accurate retrieval from the database.
 
 ## Running the System
-
+Please download the model from: (https://drive.google.com/file/d/1J9E1dXobAHilP_q-X3sTqJYui-GBwfJF/view?usp=sharing)
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/NguynHungNguyen/Face-Recognition-Attendance-System-with-Liveness-Detection-and-Nearest-Neighbors-Search
